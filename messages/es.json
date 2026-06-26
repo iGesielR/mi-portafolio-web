@@ -1,0 +1,249 @@
+{
+  "HomePage": { "title": "¡Hola mundo!" },
+  "Meta": {
+    "title": "Portfolio 3D",
+    "description": "Next 15 + R3F + Framer + Tailwind"
+  },
+  "Navbar": {
+    "brand": "CrissCode",
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "work": "Proyectos",
+    "experiences": "Experiencia",
+    "contact": "Contacto",
+    "toggleMenu": "Abrir/cerrar menú",
+    "lang_es": "ES",
+    "lang_en": "EN"
+  },
+  "HeroText": {
+    "title": "Hola, Soy Criss",
+    "headingTop": "Ingeniero de Sistemas especializado",
+    "headingBottom1": "en Soporte Técnico y Desarrollo Web creando",
+    "headingTopMobile": "Construyendo",
+    "headingBottomMobile": "Aplicaciones Web",
+    "words": ["Seguras", "Modernas", "Escalables"],
+    "headingBottom2": "Aplicaciones Web",
+    "pitch": "Me apasiona resolver problemas y crear experiencias digitales centradas en el usuario, respaldadas por una infraestructura tecnológica sólida y confiable.",
+    "download": "Descargar CV",
+    "ariaDownload": "Descargar currículum en PDF"
+  },
+  "Stats": {
+    "exp": "Años de experiencia",
+    "projects": "Proyectos destacados",
+    "tech": "Tecnologías utilizadas",
+    "commits": "Commits completados"
+  },
+  "About": {
+    "title": "Sobre mí",
+    "grid1_head": "Hola, Soy Cristian",
+    "grid1_sub": "Soy Ing en Sistemas C. con experiencia en soporte técnico y una fuerte motivación por desarrollarme como desarrollador web. Mi trayectoria me ha permitido comprender la tecnología desde distintas perspectivas: desde la atención y resolución de incidencias para usuarios finales hasta el diseño, desarrollo y despliegue de aplicaciones web modernas. Disfruto aprender constantemente, asumir nuevos retos y crear soluciones que generen un impacto positivo.",
+    "grid2_main": "EL CÓDIGO ES ARTE",
+    "grid2_cards": {
+      "grasp": "REACT",
+      "solid": "NEXT.JS",
+      "patterns": "Resolución de problemas",
+      "principles": "Principios de diseño",
+      "srp": "Soporte IT"
+    },
+    "grid3_head": "Zona horaria",
+    "grid3_sub": "Disponible para colaborar de forma remota o presencial. Me adapto rápidamente a nuevos entornos y disfruto trabajar en equipo para alcanzar objetivos comunes.",
+    "grid4_cta": "¿Buscas a alguien comprometido para impulsar tu próximo proyecto?",
+    "grid5_head": "Stack tecnológico",
+    "grid5_sub": "Trabajo con tecnologías enfocadas al desarrollo web moderno, integrando frontend, backend y herramientas de despliegue para construir soluciones funcionales y escalables mientras continúo ampliando mis conocimientos."
+  },
+  "CopyEmailButton": {
+    "copy": "Copiar correo electrónico",
+    "copied": "Correo copiado",
+    "iconAlt": "Icono de copiar"
+  },
+  "Tags": {
+    "csharp": "C#",
+    "dotnet": ".NET",
+    "efcore": "EF Core",
+    "tailwind": "TailwindCSS",
+    "auth0": "Auth0",
+    "react": "React",
+    "sqlite": "SQLite",
+    "blazor": "Blazor",
+    "dotnetcore": ".NET Core",
+    "cplusplus": "C++",
+    "git": "Git",
+    "microsoft": "Microsoft",
+    "html5": "HTML5",
+    "css3": "CSS3",
+    "vite": "Vite.js",
+    "azure": "Azure",
+    "stripe": "Stripe"
+  },
+  "Projects": {
+    "title": "Mis proyectos seleccionados",
+    "aria_label": "Sección de proyectos seleccionados",
+    "preview_alt": "Vista previa del proyecto",
+    "items": {
+      "quizly-platform": {
+        "title": "Plataforma de Quizzes y Evaluaciones en Línea",
+        "description": "Plataforma Full-Stack para crear y resolver cuestionarios interactivos, con estadísticas en tiempo real, protección del progreso y un constructor dinámico de evaluaciones.",
+        "subDescription": [
+          "Desarrollé el frontend con React implementando un panel de navegación responsivo y una barra de progreso fluida para el usuario.",
+          "Construí el backend con Node.js, Express y MongoDB para la gestión estructurada de preguntas y el almacenamiento de puntuaciones.",
+          "Desplegué la solución completa de manera óptima utilizando Vercel para el cliente y Render para la base de datos y API."
+        ]
+      },
+      "puzzle-deslizante": {
+        "title": "Puzzle Deslizante Interactivo",
+        "description": "Juego web interactivo donde los usuarios resuelven un rompecabezas clásico y compiten directamente en una tabla de clasificación.",
+        "subDescription": [
+          "Desarrollé toda la lógica matemática del juego en el cliente utilizando React, logrando movimientos e interacciones fluidas.",
+          "Diseñé e integré una API REST con Node.js y Express para procesar el rendimiento de los usuarios y actualizar el ranking en tiempo real."
+        ]
+      },
+      "verbox": {
+        "title": "VerBoX - Juego de Palabras Interactivo",
+        "description": "Aplicación web inspirada en Wordle, con mecánicas personalizadas y niveles de dificultad ajustables según la longitud de las palabras.",
+        "subDescription": [
+          "Implementé un teclado virtual funcional y lógica nativa en JavaScript para la validación de intentos mediante un diccionario propio.",
+          "Diseñé una interfaz atractiva con estética Liquid Glass, efectos de sonido y animaciones de impacto mediante CSS fluido.",
+          "Publicado y optimizado en producción a través de Vercel, garantizando un rendimiento responsivo en cualquier dispositivo móvil."
+        ]
+      },
+      "memory-master": {
+        "title": "Memory Master - juego de Memorama Interactivo",
+        "description": "Desarrollé Memory Master, un juego de memorama moderno e interactivo donde los jugadores ponen a prueba su memoria encontrando pares de cartas en el menor tiempo y con la menor cantidad de movimientos.",
+        "subDescription": [
+          "Desarrollé la aplicación utilizando Next.js 15, React y TypeScript, creando una arquitectura moderna, escalable y con código tipado.",
+          "Diseñé una interfaz responsiva con Tailwind CSS e incorporé animaciones fluidas mediante Framer Motion para mejorar la experiencia del usuario.",
+          "Implementé la lógica del juego, el sistema de puntuación y la persistencia de datos utilizando LocalStorage para guardar récords y preferencias.",
+          "Optimicé la experiencia con un enfoque Mobile First, modo oscuro, diseño tipo Glassmorphism y una apariencia inspirada en aplicaciones SaaS modernas."
+        ]
+      },
+      "pendiente-ecommerce": {
+        "title": "Sistema de Reservas",
+        "description": "Proyecto en desarollo...",
+        "subDescription": [
+          "PROXIMAMENTE..."
+
+        ]
+      }
+    }
+  },
+  "Project": {
+    "readMore": "Leer más",
+    "openAlt": "Abrir detalles del proyecto"
+  },
+  "ProjectDetails": {
+    "overlayClose": "Cerrar diálogo",
+    "close": "Cerrar",
+    "viewProject": "Ver proyecto"
+  },
+  "Experiences": {
+    "title": "Mi experiencia laboral",
+    "aria_label": "Sección de experiencia laboral",
+    "items": {
+      "pacifica": {
+        "title": "Auxiliar de Soporte Técnico",
+        "job": "Pacífica Resort Ixtapa - Mexico",
+        "date": "Diciembre 2025 — Mayo 2026",
+        "contents": [
+          "Brindé soporte técnico presencial y remoto a usuarios finales para asegurar la continuidad operativa de los equipos de cómputo.",
+          "Configuré y aprovisioné teléfonos IP Polycom y Yealink mediante enlace MCM.",
+          "Gestioné y di seguimiento continuo a tickets de soporte técnico garantizando tiempos mínimos de respuesta."
+        ]
+      },
+      "elnumerouno": {
+        "title": "Auxiliar de Sistemas y Administración",
+        "job": "Comercializadora de Semillas el NO. 1",
+        "date": "Febrero 2022 — Julio 2023",
+        "contents": [
+          "Participé en pruebas y mejora de herramientas tecnológicas internas para optimizar procesos operativos.",
+          "Administré y actualicé información en los sistemas de la empresa, garantizando la integridad y disponibilidad de los datos.",
+          "Elaboré reportes para el seguimiento y análisis de información, apoyando la toma de decisiones.",
+          "Colaboré en el control y gestión de bases de datos para asegurar un manejo eficiente y confiable de la información."
+        ]
+      },
+      "grupoomer": {
+        "title": "Soporte Técnico",
+        "job": "Objetivos Metas y Resultados",
+        "date": "Septiembre 2019 — Octubre 2020",
+        "contents": [
+          "Brindé soporte técnico a usuarios para la atención y resolución de incidencias relacionadas con hardware y software.",
+          "Realicé mantenimiento preventivo y correctivo a equipos de cómputo para garantizar su correcto funcionamiento y prolongar su vida útil.",
+          "Colaboré en la mejora de la intranet de la empresa, apoyando en la implementación de ajustes y optimizaciones para mejorar la experiencia y funcionalidad de la plataforma interna."
+        ]
+      }
+    }
+  },
+
+  "Filosofia": {
+    "title": "Mi filosofía profesional",
+    "aria_label": "Sección de filosofía",
+    "avatarAlt": "Avatar de {name}",
+    "items": {
+      "curiosidad": {
+        "name": "Curiosidad",
+        "username": "@curiosidad",
+        "body": "Me motiva entender cómo funcionan las cosas y encontrar maneras de mejorarlas."
+      },
+      "evolucion": {
+        "name": "Evolución",
+        "username": "@evolucion",
+        "body": "Estoy dando el salto del soporte técnico al desarrollo web, combinando ambas experiencias."
+      },
+      "aprendizaje": {
+        "name": "Aprendizaje Continuo",
+        "username": "@aprendizaje",
+        "body": "Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades para mantenerme actualizado."
+      },
+      "resolucion": {
+        "name": "Resolución de problemas",
+        "username": "@resolucion",
+        "body": "Disfruto analizar situaciones complejas y encontrar soluciones prácticas y eficientes."
+      },
+      "adaptabilidad": {
+        "name": "Adaptabilidad",
+        "username": "@adaptabilidad",
+        "body": "Me adapto rápidamente a nuevos entornos, herramientas y desafíos tecnológicos."
+      },
+      "equipo": {
+        "name": "Trabajo en Equipo",
+        "username": "@equipo",
+        "body": "Creo en la comunicación, colaboración y apoyo mutuo para alcanzar mejores resultados."
+      },
+      "constancia": {
+        "name": " Constancia y Dedicación",
+        "username": "@constancia",
+        "body": "Creo que el crecimiento profesional se construye aprendiendo todos los días."
+      },
+      "tecnologia": {
+        "name": "Pasión por la tecnología",
+        "username": "@tecnologia",
+        "body": "Disfruto resolver problemas y convertir ideas en soluciones útiles."
+      }
+    }
+  },
+  "Contact": {
+    "aria_label": "Sección de contacto",
+    "title": "Hablemos",
+    "intro": "¿Te interesa conocer más sobre mi experiencia, mis proyectos o explorar una oportunidad de colaboración? Estaré encantado de conversar contigo.",
+    "fields": {
+      "name": { "label": "Nombre completo", "placeholder": "Juan Pérez" },
+      "email": {
+        "label": "Correo electrónico",
+        "placeholder": "juan@ejemplo.com"
+      },
+      "message": { "label": "Mensaje", "placeholder": "Cuéntame sobre la oportunidad o tu consulta..." }
+    },
+    "cta": { "send": "Enviar", "sending": "Enviando..." },
+    "alerts": {
+      "success": "¡Tu mensaje ha sido enviado!",
+      "genericError": "Algo salió mal. Inténtalo de nuevo más tarde."
+    },
+    "errors": {
+      "notConfigured": "Servicio de email no configurado. Define las variables NEXT_PUBLIC_EMAILJS_*."
+    }
+  },
+  "Footer": {
+    "terms": "Términos y Condiciones",
+    "privacy": "Política de Privacidad",
+    "copyright": "© {year} {brand}. Todos los derechos reservados."
+  }
+}

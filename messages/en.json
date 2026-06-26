@@ -1,0 +1,247 @@
+{
+  "HomePage": { "title": "Hello world!" },
+  "Meta": {
+    "title": "3D Portfolio",
+    "description": "Next 15 + R3F + Framer + Tailwind"
+  },
+  "Navbar": {
+    "brand": "CrissCode",
+    "home": "Home",
+    "about": "About Me",
+    "work": "Projects",
+    "experiences": "Experience",
+    "contact": "Contact",
+    "toggleMenu": "Open/close menu",
+    "lang_es": "ES",
+    "lang_en": "EN"
+  },
+  "HeroText": {
+    "title": "Hi, I'm Criss",
+    "headingTop": "Systems Engineer specialized",
+    "headingBottom1": "in Technical Support and Web Development creating",
+    "headingTopMobile": "Building",
+    "headingBottomMobile": "Web Applications",
+    "words": ["Secure", "Modern", "Scalable"],
+    "headingBottom2": "Web Applications",
+    "pitch": "I am passionate about solving problems and creating user-centered digital experiences, backed by a solid and reliable technological infrastructure.",
+    "download": "Download CV",
+    "ariaDownload": "Download résumé as PDF"
+  },
+  "Stats": {
+    "exp": "Years of experience",
+    "projects": "Featured projects",
+    "tech": "Technologies used",
+    "commits": "Commits completed"
+  },
+  "About": {
+    "title": "About Me",
+    "grid1_head": "Hi, I'm Cristian",
+    "grid1_sub": "I am a Systems Engineer with experience in technical support and a strong motivation to grow as a web developer. My career path has allowed me to understand technology from different perspectives: from end-user support and incident resolution to the design, development, and deployment of modern web applications. I enjoy continuous learning, taking on new challenges, and creating solutions that generate a positive impact.",
+    "grid2_main": "CODE IS ART",
+    "grid2_cards": {
+      "grasp": "REACT",
+      "solid": "NEXT.JS",
+      "patterns": "Problem Solving",
+      "principles": "Design Principles",
+      "srp": "IT Support"
+    },
+    "grid3_head": "Time Zone",
+    "grid3_sub": "Available to collaborate remotely or on-site. I adapt quickly to new environments and enjoy working as part of a team to achieve common goals.",
+    "grid4_cta": "Looking for someone committed to driving your next project forward?",
+    "grid5_head": "Tech Stack",
+    "grid5_sub": "I work with technologies focused on modern web development, integrating frontend, backend, and deployment tools to build functional and scalable solutions while continuing to expand my knowledge."
+  },
+  "CopyEmailButton": {
+    "copy": "Copy Email Address",
+    "copied": "Email Copied",
+    "iconAlt": "Copy icon"
+  },
+  "Tags": {
+    "csharp": "C#",
+    "dotnet": ".NET",
+    "efcore": "EF Core",
+    "tailwind": "TailwindCSS",
+    "auth0": "Auth0",
+    "react": "React",
+    "sqlite": "SQLite",
+    "blazor": "Blazor",
+    "dotnetcore": ".NET Core",
+    "cplusplus": "C++",
+    "git": "Git",
+    "microsoft": "Microsoft",
+    "html5": "HTML5",
+    "css3": "CSS3",
+    "vite": "Vite.js",
+    "azure": "Azure",
+    "stripe": "Stripe"
+  },
+  "Projects": {
+    "title": "My Selected Projects",
+    "aria_label": "Selected projects section",
+    "preview_alt": "Project preview",
+    "items": {
+      "quizly-platform": {
+        "title": "Online Quiz and Assessment Platform",
+        "description": "Full-Stack platform for creating and taking interactive quizzes, featuring real-time statistics, progress protection, and a dynamic assessment builder.",
+        "subDescription": [
+          "I developed the frontend with React, implementing a responsive navigation panel and a smooth progress bar for the user.",
+          "I built the backend with Node.js, Express, and MongoDB for structured question management and score storage.",
+          "I optimally deployed the complete solution using Vercel for the client and Render for the database and API."
+        ]
+      },
+      "puzzle-deslizante": {
+        "title": "Interactive Sliding Puzzle",
+        "description": "Interactive web game where users solve a classic puzzle and compete directly on a leaderboard.",
+        "subDescription": [
+          "I developed the entire mathematical logic of the game on the client side using React, achieving fluid movements and interactions.",
+          "I designed and integrated a REST API with Node.js and Express to process user performance and update the ranking in real time."
+        ]
+      },
+      "verbox": {
+        "title": "VerBoX - Interactive Word Game",
+        "description": "Web application inspired by Wordle, featuring custom mechanics and adjustable difficulty levels based on word length.",
+        "subDescription": [
+          "I implemented a functional virtual keyboard and native JavaScript logic for attempt validation using a custom dictionary.",
+          "I designed an attractive interface with a Liquid Glass aesthetic, sound effects, and high-impact animations using fluid CSS.",
+          "Published and optimized in production through Vercel, guaranteeing a responsive performance on any mobile device."
+        ]
+      },
+      "memory-master": {
+        "title": "Memory Master - Interactive Memory Matching Game",
+        "description": "I developed Memory Master, a modern and interactive memory matching game where players challenge their memory by finding matching card pairs in the shortest time and with the fewest moves possible.",
+        "subDescription": [
+          "I built the application using Next.js 15, React, and TypeScript, creating a modern, scalable architecture with strong type safety.",
+          "I designed a fully responsive interface with Tailwind CSS and implemented smooth animations using Framer Motion to enhance the user experience.",
+          "I implemented the game logic, scoring system, and data persistence using LocalStorage to save high scores and user preferences.",
+          "I optimized the experience with a Mobile-First approach, Dark Mode support, Glassmorphism design, and a premium interface inspired by modern SaaS applications."
+  ]
+      },
+      "pendiente-ecommerce": {
+        "title": "Reservation System",
+        "description": "Project in development...",
+        "subDescription": [
+          "SOON..."
+        ]
+      }
+    }
+  },
+  "Project": {
+    "readMore": "Read More",
+    "openAlt": "Open project details"
+  },
+  "ProjectDetails": {
+    "overlayClose": "Close dialog",
+    "close": "Close",
+    "viewProject": "View Project"
+  },
+  "Experiences": {
+    "title": "My Work Experience",
+    "aria_label": "Work experience section",
+    "items": {
+      "pacifica": {
+        "title": "Technical Support Assistant",
+        "job": "Pacífica Resort Ixtapa - Mexico",
+        "date": "December 2025 — May 2026",
+        "contents": [
+          "I provided on-site and remote technical support to end users to ensure the operational continuity of computer equipment.",
+          "I configured and provisioned Polycom and Yealink IP phones through MCM linking.",
+          "I managed and continuously monitored technical support tickets, ensuring minimal response times."
+        ]
+      },
+      "elnumerouno": {
+        "title": "Systems and Administrative Assistant",
+        "job": "Comercializadora de Semillas el NO. 1",
+        "date": "February 2022 — July 2023",
+        "contents": [
+          "I participated in testing and improving internal technological tools to optimize operational processes.",
+          "I managed and updated information within the company's systems, ensuring data integrity and availability.",
+          "I prepared reports for information tracking and analysis, supporting decision-making.",
+          "I collaborated in the control and management of databases to ensure efficient and reliable information handling."
+        ]
+      },
+      "grupoomer": {
+        "title": "Technical Support",
+        "job": "Objectives, Goals and Results",
+        "date": "September 2019 — October 2020",
+        "contents": [
+          "I provided technical support to users, addressing and resolving hardware and software-related incidents.",
+          "I performed preventive and corrective maintenance on computer equipment to ensure proper operation and extend its useful life.",
+          "I collaborated in improving the company's intranet, supporting the implementation of adjustments and optimizations to enhance the experience and functionality of the internal platform."
+        ]
+      }
+    }
+  },
+  "Filosofia": {
+    "title": "My Professional Philosophy",
+    "aria_label": "Philosophy section",
+    "avatarAlt": "Avatar of {name}",
+    "items": {
+      "curiosidad": {
+        "name": "Curiosity",
+        "username": "@curiosidad",
+        "body": "I am motivated to understand how things work and find ways to improve them."
+      },
+      "evolucion": {
+        "name": "Evolution",
+        "username": "@evolucion",
+        "body": "I am making the leap from technical support to web development, combining both experiences."
+      },
+      "aprendizaje": {
+        "name": "Continuous Learning",
+        "username": "@aprendizaje",
+        "body": "I am always exploring new technologies and improving my skills to stay up to date."
+      },
+      "resolucion": {
+        "name": "Problem Solving",
+        "username": "@resolucion",
+        "body": "I enjoy analyzing complex situations and finding practical and efficient solutions."
+      },
+      "adaptabilidad": {
+        "name": "Adaptability",
+        "username": "@adaptabilidad",
+        "body": "I adapt quickly to new environments, tools, and technological challenges."
+      },
+      "equipo": {
+        "name": "Teamwork",
+        "username": "@equipo",
+        "body": "I believe in communication, collaboration, and mutual support to achieve better results."
+      },
+      "constancia": {
+        "name": "Consistency and Dedication",
+        "username": "@constancia",
+        "body": "I believe that professional growth is built through learning every single day."
+      },
+      "tecnologia": {
+        "name": "Passion for Technology",
+        "username": "@tecnologia",
+        "body": "I enjoy solving problems and turning ideas into useful solutions."
+      }
+    }
+  },
+  "Contact": {
+    "aria_label": "Contact section",
+    "title": "Let's Talk",
+    "intro": "Are you interested in learning more about my experience, my projects, or exploring a collaboration opportunity? I'll be glad to chat with you.",
+    "fields": {
+      "name": { "label": "Full Name", "placeholder": "John Doe" },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "john@example.com"
+      },
+      "message": { "label": "Message", "placeholder": "Tell me about the opportunity or your inquiry..." }
+    },
+    "cta": { "send": "Send", "sending": "Sending..." },
+    "alerts": {
+      "success": "Your message has been sent!",
+      "genericError": "Something went wrong. Please try again later."
+    },
+    "errors": {
+      "notConfigured": "Email service not configured. Define the NEXT_PUBLIC_EMAILJS_* variables."
+    }
+  },
+  "Footer": {
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "copyright": "© {year} {brand}. All rights reserved."
+  }
+}
