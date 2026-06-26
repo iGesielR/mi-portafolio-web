@@ -1,4 +1,4 @@
-# 🚀 Portfolio V2 - DarkCode21
+# 🚀 Portfolio - CrissGNZ 
 
 Welcome to my personal portfolio repository.
 
@@ -10,7 +10,7 @@ Bienvenido al repositorio de mi portafolio personal.
 ## 🇪🇸 Versión en Español
 
 ### 📖 Sobre el Proyecto
-Esta es la segunda iteración de mi portafolio personal (`v2`). El objetivo de este proyecto es proporcionar una interfaz limpia, rápida e interactiva para presentar mi trabajo. Soporta múltiples idiomas y cuenta con un diseño responsivo optimizado para todos los dispositivos.
+Esta es la segunda iteración de mi portafolio personal. El objetivo de este proyecto es proporcionar una interfaz limpia, rápida e interactiva para presentar mi trabajo. Soporta múltiples idiomas y cuenta con un diseño responsivo optimizado para todos los dispositivos.
 
 ### 📸 Capturas de Pantalla
 > *¡Echa un vistazo al diseño!*
