@@ -69,9 +69,9 @@ export const myProjects: Project[] = [
     image: "/assets/projects/memorama.png",
     tags: [
       { id: 1, name: "NextJS", path: "/assets/logos/nextjs.svg" },
-      { id: 2, name: "HTML", path: "/assets/logos/html5.svg" },
-      { id: 3, name: "CSS", path: "/assets/logos/css3.svg" },
-      { id: 4, name: "JavaScript", path: "/assets/logos/javascript.svg" },
+      { id: 2, name: "TypeScript", path: "/assets/logos/typescript.svg" },
+      { id: 3, name: "TailwindCSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 4, name: "Supabase", path: "/assets/logos/supabase.svg" },
     ],
   },
   {
